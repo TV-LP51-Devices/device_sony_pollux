@@ -12,6 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# TWRP flags
+DEVICE_RESOLUTION := 1920x1200
+
 # inherit from the common pollux definitions
 include device/sony/pollux-common/BoardConfigCommon.mk
 
