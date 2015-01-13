@@ -1,1 +1,1 @@
-add_lunch_combo candykat_pollux-userdebug
+add_lunch_combo validus_pollux-userdebug
