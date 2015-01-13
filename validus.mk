@@ -5,9 +5,6 @@ TARGET_SCREEN_WIDTH := 1920
 # Inherit device configuration
 $(call inherit-product, device/sony/pollux/full_pollux.mk)
 
-# Inherit some common validus stuff.
-$(call inherit-product, vendor/validus/config/gsm.mk)
-
 # Enhanced NFC
 $(call inherit-product, vendor/validus/config/nfc_enhanced.mk)
 
